@@ -5,9 +5,7 @@ import { StyleSheet, Text, View, Button } from 'react-native';
 export default class App extends React.Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text style={styles.textStyle}>Day's phrase</Text>
-      </View>
+      <Text style={styles.textStyle}>Day's phrase</Text>
     );
   }
 }
@@ -22,7 +20,7 @@ const styles = StyleSheet.create({
   textStyle: {
     fontSize: 20,
     backgroundColor: '#08509B',
-    height: 50,
-    width: 300
+    margin: 30,
+    textAlign: 'center'
   }
 });
