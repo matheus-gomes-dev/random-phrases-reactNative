@@ -1,5 +1,7 @@
-# React Native: Random Numbers
+# React Native: Random Phrases
 React-native app, to generate random phrases.
+
+<img src="https://github.com/matheus-lima92/random-phrases-reactNative/blob/master/img/Screenshot1.png?raw=true" width="180" height="320"> <img src="https://github.com/matheus-lima92/random-phrases-reactNative/blob/master/img/Screenshot2.png?raw=true" width="180" height="320"> <img src="https://github.com/matheus-lima92/random-phrases-reactNative/blob/master/img/Screenshot3.png?raw=true" width="180" height="320">
 
 
 # Installation
